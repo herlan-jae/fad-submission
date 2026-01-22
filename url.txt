@@ -1,2 +1,1 @@
-# TODO: DEPLOY DASHBOARD KE STREAMLIT CLOUD
-# SIMPAN URL KE FILE INI
+https://dicoding-fad-submission-herlan.streamlit.app/
